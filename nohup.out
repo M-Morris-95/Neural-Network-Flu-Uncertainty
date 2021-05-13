@@ -1,0 +1,63 @@
+[I 16:16:28.085 NotebookApp] The port 8080 is already in use, trying another port.
+[W 2021-05-04 16:16:28.266 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 16:16:28.267 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 16:16:28.267 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-05-04 16:16:28.273 LabApp] JupyterLab extension loaded from /home/mimorris/source~/.bashrc/envs/py3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-04 16:16:28.273 LabApp] JupyterLab application directory is /home/mimorris/source~/.bashrc/envs/py3/share/jupyter/lab
+[I 16:16:28.278 NotebookApp] Serving notebooks from local directory: /home/mimorris/Projects/Neural-Network-Flu-Uncertainty
+[I 16:16:28.278 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 16:16:28.278 NotebookApp] http://localhost:8081/?token=de67210249c74134ace16b9d9eeafef71502285f880f9ad1
+[I 16:16:28.278 NotebookApp]  or http://127.0.0.1:8081/?token=de67210249c74134ace16b9d9eeafef71502285f880f9ad1
+[I 16:16:28.278 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:16:28.281 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/mimorris/.local/share/jupyter/runtime/nbserver-26402-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8081/?token=de67210249c74134ace16b9d9eeafef71502285f880f9ad1
+     or http://127.0.0.1:8081/?token=de67210249c74134ace16b9d9eeafef71502285f880f9ad1
+[I 16:16:37.948 NotebookApp] Interrupted...
+[I 16:16:37.948 NotebookApp] Shutting down 0 kernels
+[I 16:16:37.949 NotebookApp] Shutting down 0 terminals
+[I 16:16:56.030 NotebookApp] The port 8080 is already in use, trying another port.
+[W 2021-05-04 16:16:56.195 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 16:16:56.195 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 16:16:56.195 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-05-04 16:16:56.202 LabApp] JupyterLab extension loaded from /home/mimorris/source~/.bashrc/envs/py3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-04 16:16:56.202 LabApp] JupyterLab application directory is /home/mimorris/source~/.bashrc/envs/py3/share/jupyter/lab
+[I 16:16:56.206 NotebookApp] Serving notebooks from local directory: /home/mimorris/Projects/Neural-Network-Flu-Uncertainty
+[I 16:16:56.206 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 16:16:56.206 NotebookApp] http://localhost:8081/?token=76de046ba163bc242b0f7088352360d372677bdd6d3ddab9
+[I 16:16:56.206 NotebookApp]  or http://127.0.0.1:8081/?token=76de046ba163bc242b0f7088352360d372677bdd6d3ddab9
+[I 16:16:56.206 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:16:56.209 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/mimorris/.local/share/jupyter/runtime/nbserver-26408-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8081/?token=76de046ba163bc242b0f7088352360d372677bdd6d3ddab9
+     or http://127.0.0.1:8081/?token=76de046ba163bc242b0f7088352360d372677bdd6d3ddab9
+[I 16:18:31.975 NotebookApp] Interrupted...
+[I 16:18:31.976 NotebookApp] Shutting down 0 kernels
+[I 16:18:31.976 NotebookApp] Shutting down 0 terminals
+[I 16:19:09.585 NotebookApp] The port 8080 is already in use, trying another port.
+[W 2021-05-04 16:19:09.749 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 16:19:09.749 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 16:19:09.749 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-05-04 16:19:09.756 LabApp] JupyterLab extension loaded from /home/mimorris/source~/.bashrc/envs/py3/lib/python3.9/site-packages/jupyterlab
+[I 2021-05-04 16:19:09.756 LabApp] JupyterLab application directory is /home/mimorris/source~/.bashrc/envs/py3/share/jupyter/lab
+[I 16:19:09.760 NotebookApp] Serving notebooks from local directory: /home/mimorris/Projects/Neural-Network-Flu-Uncertainty
+[I 16:19:09.760 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 16:19:09.760 NotebookApp] http://localhost:8081/?token=305b66e626e0569d34ebc10b4d539b3ebbf7bbf99faac25e
+[I 16:19:09.760 NotebookApp]  or http://127.0.0.1:8081/?token=305b66e626e0569d34ebc10b4d539b3ebbf7bbf99faac25e
+[I 16:19:09.760 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:19:09.763 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/mimorris/.local/share/jupyter/runtime/nbserver-26536-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8081/?token=305b66e626e0569d34ebc10b4d539b3ebbf7bbf99faac25e
+     or http://127.0.0.1:8081/?token=305b66e626e0569d34ebc10b4d539b3ebbf7bbf99faac25e
+[I 16:19:26.506 NotebookApp] Interrupted...
+[I 16:19:26.506 NotebookApp] Shutting down 0 kernels
+[I 16:19:26.507 NotebookApp] Shutting down 0 terminals

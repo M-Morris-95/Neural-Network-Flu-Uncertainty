@@ -1,0 +1,16 @@
+Arch=FF
+num_layers=3
+sizeof_layers=293
+batch_norm=True
+Ext=-c
+kl_anneal=4.004455873384548
+rho_q=4.4386636248619835
+rho_op=1.7326712009311371
+prior_scale=2.2891473829430637
+sizeof_bnn=6
+Batch_Size=61
+Epochs=311
+Gamma=14
+country=us
+early_stopping=False
+smooth=True
